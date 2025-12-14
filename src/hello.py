@@ -7,7 +7,7 @@ from datetime import datetime
 def greet(name=None):
     """Greet the user with current time."""
     if name is None:
-        name = "World"
+        name = "Adam"
     
     current_time = datetime.now().strftime("%H:%M:%S")
     print(f"Hello, {name}!")
