@@ -24,3 +24,7 @@ ENV/
 .venv
 data/
 *.log
+
+# IDE
+.idea/
+.vscode/
