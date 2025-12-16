@@ -10,7 +10,18 @@ def greet(name=None):
         name = "Adam"
     
     current_time = datetime.now().strftime("%H:%M:%S")
-    print("hello daniel 123!")
+    print("hello daniel!")
+    print("hello daniel!")
+    print("hello daniel!")
+    print("hello daniel!")
+    print("hello daniel!")
+    print("hello daniel!")
+    print("hello daniel!")
+    print("hello daniel!")
+    print("hello daniel!")
+
+
+
     print(f"Current time: {current_time}")
     
     return f"Greeted {name} at {current_time}"
